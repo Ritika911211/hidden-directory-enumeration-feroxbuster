@@ -34,3 +34,17 @@ sudo apt install feroxbuster -y
 feroxbuster --version
 
 feroxbuster -u http://testasp.vulnweb.com/
+
+## Project Screenshots
+
+### Feroxbuster Installation
+
+![Feroxbuster Installation](screenshots/feroxbuster-installation.png)
+
+### Directory Scan Started
+
+![Directory Scan Started](screenshots/feroxbuster-scan-start.png)
+
+### Hidden Directories Discovered
+
+![Hidden Directories Discovered](screenshots/hidden-directories-discovered.png)
