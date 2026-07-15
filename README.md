@@ -26,7 +26,7 @@ http://testasp.vulnweb.com/
 
 ## Commands Used
 
-bash
+```bash
 sudo apt update
 
 sudo apt install feroxbuster -y
@@ -34,6 +34,7 @@ sudo apt install feroxbuster -y
 feroxbuster --version
 
 feroxbuster -u http://testasp.vulnweb.com/
+```
 
 ## Project Screenshots
 
