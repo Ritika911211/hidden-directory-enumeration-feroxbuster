@@ -1,0 +1,7 @@
+sudo apt update
+
+sudo apt install feroxbuster -y
+
+feroxbuster --version
+
+feroxbuster -u http://testasp.vulnweb.com/
