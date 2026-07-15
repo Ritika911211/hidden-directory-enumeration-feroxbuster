@@ -1,0 +1,21 @@
+Feroxbuster Directory Enumeration Analysis
+
+Objective:
+To discover hidden directories and files on a web application using Feroxbuster.
+
+Target:
+http://testasp.vulnweb.com/
+
+Tool Used:
+Feroxbuster v2.13.1
+
+Analysis:
+- Successfully scanned the target web application.
+- Enumerated multiple hidden directories and files.
+- Detected publicly accessible web resources.
+- Observed HTTP response codes including 200, 301, 302 and 404.
+- Verified the effectiveness of directory brute-forcing.
+- Learned how web enumeration assists in security assessments.
+
+Conclusion:
+Feroxbuster efficiently identified hidden content and demonstrated the importance of directory enumeration during penetration testing.
