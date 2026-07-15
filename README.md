@@ -49,3 +49,16 @@ feroxbuster -u http://testasp.vulnweb.com/
 ### Hidden Directories Discovered
 
 ![Hidden Directories Discovered](screenshots/hidden-directories-discovered.png)
+
+## Project Outcome
+
+- Successfully installed Feroxbuster on Kali Linux.
+- Performed web directory enumeration on the target website.
+- Identified multiple hidden directories and files.
+- Observed different HTTP response status codes.
+- Learned basic web content discovery techniques.
+- Improved understanding of reconnaissance during penetration testing.
+
+## Disclaimer
+
+This project was performed only in a controlled environment for educational and ethical cybersecurity learning purposes.
